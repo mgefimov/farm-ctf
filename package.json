@@ -5,7 +5,8 @@
     "solve-0": "hardhat run scripts/solve-0.js --network moonriver",
     "solve-1": "hardhat run scripts/solve-1.js --network moonriver",
     "solve-2": "hardhat run scripts/solve-2.js --network moonriver",
-    "solve-3": "hardhat run scripts/solve-3.js --network moonriver"
+    "solve-3": "hardhat run scripts/solve-3.js --network moonriver",
+    "solve-4": "hardhat run scripts/solve-4.js --network moonriver"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",

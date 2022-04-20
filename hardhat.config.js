@@ -23,7 +23,8 @@ module.exports = {
     moonriver: {
       url: "https://rpc.api.moonriver.moonbeam.network",
       chainId: 1285,
-      accounts: [account.privateKey]
+      accounts: [account.privateKey],
+      timeout: 600 * 1000,
     }
   }
 };
